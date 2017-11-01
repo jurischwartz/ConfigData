@@ -1,2 +1,3 @@
 ---
-lucky-word: Production config!!!!
+wordConfig:
+  lucky-word: Production config!!!!
